@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ekipogh
-- 👀 I’m interested in JAVA and Python
-- 🌱 I’m currently learning Dart
+- 👀 I’m interested in C++ and Python
+- 🌱 I’m currently learning Django and Flutter
 - 📫 How to reach me: send me an e-mail self@ekipogh.ru
 
 <!---
